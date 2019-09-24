@@ -60,7 +60,7 @@ public class EnterNameActivity extends Activity implements View.OnClickListener 
         }else if(view ==txt_history){
             Intent intent = new Intent(EnterNameActivity.this,HistoryActivity.class);
             startActivity(intent);
-            finish();
+
         }else if(view ==txt_clear_history){
             databasehandler.deleteTable();
             manger.setCount(0);
