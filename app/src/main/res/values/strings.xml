@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Trivia App</string>
+    <string name="first_question"> Who is the best cricketer in the world?</string>
+    <string name="second_question"> What are the colors in the Indian national flag?</string>
+
+    //option question 1
+    <string name="option_1">Sachin Tendulkar</string>
+    <string name="option_2">Virat Kohli</string>
+    <string name="option_3">Adam Gilchrist</string>
+    <string name="option_4">Jacques Kallis</string>
+
+    //option question 2
+    <string name="option_5">White</string>
+    <string name="option_6">Yellow</string>
+    <string name="option_7">Orange</string>
+    <string name="option_8">Green</string>
+</resources>
